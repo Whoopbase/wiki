@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Whoopbase Wiki Blog</title>
         <link>https://wiki.whoopbase.com/blog</link>
@@ -13,6 +13,9 @@
             <link>https://wiki.whoopbase.com/blog/welcome</link>
             <guid>https://wiki.whoopbase.com/blog/welcome</guid>
             <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the Whoopbase Wiki! A place where we try to provide every piece of infomation there is about whoops. If you want to contribute to the Whoopbase wiki you can check out the github where this is hosted, the guide on how to contribute is there.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the Whoopbase Wiki! A place where we try to provide every piece of infomation there is about whoops. If you want to contribute to the Whoopbase wiki you can check out the github where this is hosted, the guide on how to contribute is there.</p>
+<p>Thanks for reading!</p>]]></content:encoded>
             <category>Hello</category>
             <category>Wiki</category>
         </item>

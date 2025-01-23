@@ -12,6 +12,9 @@
         <id>https://wiki.whoopbase.com/blog/welcome</id>
         <link href="https://wiki.whoopbase.com/blog/welcome"/>
         <updated>2025-01-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Whoopbase Wiki! A place where we try to provide every piece of infomation there is about whoops. If you want to contribute to the Whoopbase wiki you can check out the github where this is hosted, the guide on how to contribute is there.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the Whoopbase Wiki! A place where we try to provide every piece of infomation there is about whoops. If you want to contribute to the Whoopbase wiki you can check out the github where this is hosted, the guide on how to contribute is there.</p>
+<p>Thanks for reading!</p>]]></content>
         <author>
             <name>Josh</name>
             <uri>https://github.com/Joshiy13</uri>
