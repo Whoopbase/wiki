@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[947],{6600:s=>{s.exports=JSON.parse('{"authors":[{"name":"Josh","title":"Whoopbase Founder","url":"https://github.com/Joshiy13","page":{"permalink":"/blog/authors/josh"},"socials":{"github":"https://github.com/Joshiy13"},"imageURL":"https://github.com/Joshiy13.png","key":"josh","count":1}]}')}}]);
